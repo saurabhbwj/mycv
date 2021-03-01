@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(30, 243, 225);
+}
+a:hover {
+  color: aquamarine;
+  border: red;
+}
+hr {
+  background-color: magenta;
+  border-width: 2px;
+}
+p {
+  color: darkorange;
+  font-size: 20px;
+}
+img {
+    border-style: groove;
+  background-color: rgb(30, 243, 83);
+  width: 200px;
+}
+table {
+  border-color: blueviolet;
+  height: 100px;
+}
+.rohit {
+  color: rgb(158, 40, 129);
+}
+
+#rs {
+    border-width: 5px;
+  width: 200px;
+}
+
+.saurabh {
+  border-radius: 40%;
+}
